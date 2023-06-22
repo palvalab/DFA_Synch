@@ -1,5 +1,8 @@
 """
 
+--- obsolete since June 2023 ---
+
+
 Copyright (C) 2023 Vladislav Myrov & Felix Siebenhühner
 
 This program is free software: you can redistribute it and/or modify
